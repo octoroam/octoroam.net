@@ -1,0 +1,9 @@
+---
+title: About
+layout: default
+---
+
+<div class="jumbotron">
+  <h1 class="display-4">About octoroam</h1>
+  <p class="lead">Gloablly Federated Roaming</p>
+</div>
