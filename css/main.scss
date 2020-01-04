@@ -2,3 +2,7 @@
 ---
 
 @import "bootstrap/bootstrap";
+
+table {
+  @extend .table;
+}

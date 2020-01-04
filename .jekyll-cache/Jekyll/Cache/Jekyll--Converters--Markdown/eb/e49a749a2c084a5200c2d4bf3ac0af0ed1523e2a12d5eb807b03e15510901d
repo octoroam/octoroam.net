@@ -1,0 +1,17 @@
+I"<table>
+  <thead>
+    <tr>
+      <th>Logo</th>
+      <th><img src="/assets/images/logo.svg" alt="Logo" /></th>
+      <th>Provided by</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Font</td>
+      <td> </td>
+      <td>Provided by</td>
+    </tr>
+  </tbody>
+</table>
+:ET

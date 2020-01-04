@@ -1,0 +1,22 @@
+I"Â<table>
+  <thead>
+    <tr>
+      <th>What</th>
+      <th>Â </th>
+      <th>Who</th>
+    </tr>
+    <tr>
+      <th>Logo</th>
+      <th><img src="/assets/images/logo.svg" alt="Logo" style="width:150px;height:150px;" /></th>
+      <th>Provided by</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Font</td>
+      <td><a href="https://fonts.google.com/specimen/Montserrat">Montserrat</a></td>
+      <td>Provided by</td>
+    </tr>
+  </tbody>
+</table>
+:ET

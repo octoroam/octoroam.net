@@ -1,0 +1,22 @@
+I"<table>
+  <thead>
+    <tr>
+      <th>What</th>
+      <th> </th>
+      <th>Who</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Logo</td>
+      <td><img src="/assets/images/logo.svg" alt="Logo" style="width:150px;height:150px;" /></td>
+      <td>Provided by <a href="https://thenounproject.com/swissmixz/uploads/?i=25479">TNS</a></td>
+    </tr>
+    <tr>
+      <td>Font</td>
+      <td><a href="https://fonts.google.com/specimen/Montserrat">Montserrat</a></td>
+      <td>Provided by Julieta Ulanovsky</td>
+    </tr>
+  </tbody>
+</table>
+:ET
